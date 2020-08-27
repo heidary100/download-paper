@@ -1,0 +1,15 @@
+{
+  "name": "download-paper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mohammad Heidart",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.2",
+    "socks5-https-client": "^1.2.1"
+  }
+}
